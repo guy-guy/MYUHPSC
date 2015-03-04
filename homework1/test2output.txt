@@ -1,0 +1,24 @@
+
+Code run by guy
+Environment variable UWHPSC is /home/guy/uwhpsc
+Environment variable MYHPSC is /home/guy/MYUHPSC
+
+which ipython returns...
+/usr/bin/ipython
+
+which gfortran returns...
+/usr/bin/gfortran
+
+gfortran --version returns...
+GNU Fortran (GCC) 4.8.3 20140911 (Red Hat 4.8.3-7)
+Copyright (C) 2013 Free Software Foundation, Inc.
+
+GNU Fortran comes with NO WARRANTY, to the extent permitted by law.
+You may redistribute copies of GNU Fortran
+under the terms of the GNU General Public License.
+For more information about these matters, see the file named COPYING
+
+
+Compiling and running a Fortran code...
+ Code run by guy 
+ Successfully ran Fortran 90 program
